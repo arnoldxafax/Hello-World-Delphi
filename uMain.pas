@@ -27,7 +27,7 @@ implementation
 
 procedure TForm1.Button1Click(Sender: TObject);
 begin
-  Label1.Text := 'Hello Robert';
+  Label1.Text := 'Hello Rio';
 end;
 
 end.
